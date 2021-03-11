@@ -1,0 +1,125 @@
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="SPORTS",FOX SPORTS 1 
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="SPORTS",FOX SPORTS 2 
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="SPORTS",FOX SPORTS 3 
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD4
+https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD5
+https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/gjgB3wfv/True-Sport-Logo.png" group-title="SPORTS",TrueSport HD7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 1 backup
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 2 backup
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 3 backup
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="SPORTS", Sport TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS",SkyNet HD Sports
+http://4digital.ddns.net:11223/ts/0
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS", BT Sport 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS", BT Sport 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS", BT Sport 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="SPORTS",Super tenis
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="SPORTS",TENNIS Channel HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="SPORTS",BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:-1  group-title="Sports",AR|Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:-1 group-title="Sports",AR|Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:-1 group-title="Sports",Bein Sports 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
+#EXTINF:-1 group-title="Sports",Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:-1 group-title="Sports",Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+#EXTINF:-1 group-title="Sports",Bein Sports 11 SD 
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
+#EXTINF:-1 group-title="Sports",[CA]BEIN LaLiga HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1452.ts
+#EXTINF:-1 group-title="Sports",TR:beIN SPORTS 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts
+#EXTINF:-1 group-title="Sports",TR:beIN SPORTS 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.ts
+#EXTINF:-1  group-title="Sports",TR:beIN SPORTS 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.ts
+#EXTINF:-1 group-title="Sports",TR:beIN SPORTS 4
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.ts
+#EXTINF:-1 group-title="Sports",US:Bein Sports USA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.ts
+#EXTINF:-1 group-title="Sports",ES:BEIN LA LIGA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1458.ts
+#EXTINF:-1 group-title="Sports",ES:BEIN LA LIGA1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1459.ts
+#EXTINF:-1 group-title="Sports",|FR|BEIN SPORT 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1460.ts
+#EXTINF:-1 group-title="Sports",|FR|BEIN SPORT 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1461.ts
+#EXTINF:-1 group-title="Sports",|FR|BEIN SPORT 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1462.ts
+
+
