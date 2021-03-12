@@ -355,6 +355,10 @@ https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="JAPAN",Tokyo MX 2 (New!)
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
 
+#EXTINF:-1 group-title="KIDS", BABY FIRST 
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="KIDS", TOM JERRY 
+https://b.top4top.io/m_1477ceu0r3.mp4
 
 
