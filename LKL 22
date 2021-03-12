@@ -250,6 +250,30 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UJ7_CkCec0fruwodKY9_6mqclCY=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" tvg-id="RIYAN.87589a0195a1dfd7446e7c9f89d0d6e6.SHINTA" tvg-name"U-Channel TV" group-title="VIDIO",U-Channel TV 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800102a6ed6587b5b8cb4ebbe972864690b
 
+
+##MOVIES
+
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Movies", Fox Family Vn
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOX HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Movies", Fox Movies Vn
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Movies", Fox Life Vn
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Movies",ZQ DRAMA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 group-title="Movies", ZEE CLASSIC HD
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Movies",ZEE CINEMA
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Movies", &PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title= "Movies", &FLIX
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+
 =========MALAYSIA =========
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="MALAYSIA", TV1 
