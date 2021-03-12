@@ -361,4 +361,124 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KIDS", TOM JERRY 
 https://b.top4top.io/m_1477ceu0r3.mp4
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",BOOMERANG
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 group-title="KIDS", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+
+
+
+
+
+==========KNOWLEDGE ==========
+
+#EXTINF:-1 group-title="KNOWLEDGE", Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE", FAIL ARMY
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY CHANNEL 
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE", DISCOVERY ASIA 
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE", NAT GEO 
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 group-title="KNOWLEDGE", ANIMAL PLANET
+https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="KNOWLEDGE", DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE", BBC EARTH 
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:-1 group-title="KNOWLEDGE", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+
+
+
+========LIFE STYLE=======
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT", FASHION UA
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+
+#EXTINF:-1 group title="ENTERTAINMENT",TLC 
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,
+#EXTINF:-1 group title="ENTERTAINMENT",AFN
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group title="ENTERTAINMENT",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+
+
+
+==========NEWS=======
+
+#EXTINF:-1 group-title="NEWS", ABC
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="NEWS", BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="NEWS", VOA INDO
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="NEWS", DW ASIA
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1 group-title="NEWS", PALESTINE TODAY
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1 group-title="NEWS", FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+==========MUSIC========
+
+#EXTINF:-1 group-title="MUSIC",MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", POP MUSIC 
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="MUSIC", M20 MUSIC 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (  KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
+#EXTINF:-1 group-title="MUSIC", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="MUSIC", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,HARD ROCK
+http://s3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1,JAZZ
+http://s3.smashmalta.com:82/live/smash/smash/10.ts
+
+
+==========RELIGI ====
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="RELIGI",Al Quran Al Kareem TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam",Al Sunnah Al Nabawiyah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="RELIGI",RODJA TV 
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI", Al-Iman TV 
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+
 
