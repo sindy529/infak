@@ -69,8 +69,9 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4853
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="SPORTS",TENNIS Channel HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="SPORTS",PPTV Th
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="SPORTS",BEIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
