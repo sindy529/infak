@@ -313,7 +313,7 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 ==========KOREA ========
 
 #EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/690bf312c6d80d78616a.png?cdy=8.8.8.8" group-title="KOREA", DRAKOR
-http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="KOREA", SBS 18
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 group-title="KOREA", SBS PLUS
