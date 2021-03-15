@@ -330,6 +330,44 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 group-title="KOREA", EBS
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 
+=====CHINA======
+#EXTINF:-1 group-title="China",CCTV 1
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 2
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 3
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 4
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="China",CCTV 5 plus
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 6
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 7
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 8
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 9
+http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 10
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 11
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 12
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 13
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 14
+http://cctvalih5ca.v.myalicdn.com/live/cctv14_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 15
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 16
+http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8 
+
 ========JAPAN=======
 
 
@@ -379,6 +417,8 @@ http://203.162.235.41:16907
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="JAPAN",Tokyo MX 2 (New!)
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
+
+====KIDS====
 
 #EXTINF:-1 group-title="KIDS", BABY FIRST 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
