@@ -5,6 +5,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="SPORTS",FOX SPORTS 3 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="SPORTS", TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zkdgly7pwpjkqw8/euro.jpg?dl=0" group-title="SPORTS",EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zkdgly7pwpjkqw8/euro.jpg?dl=0" group-title="SPORTS",EUROSPORT 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/lazkti63jg4ix13/fightsport.jpg?dl=0" group-title="SPORTS",FIGHT SPORT
+http://210.210.155.35/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="SPORTS",CCTV 5 plus
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="SPORTS",True Premier HD 1
@@ -68,14 +81,15 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4853
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="SPORTS",TENNIS Channel HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",PPTV Th
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/PPTV_HD_36_Logo.svg/300px-PPTV_HD_36_Logo.svg.png" group-title="SPORTS", PPTV
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-
-
 #EXTINF:-1tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="SPORTS",BEIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS", MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS", Liverpool TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Sports",BeIN Sport 1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
