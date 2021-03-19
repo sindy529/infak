@@ -1,4 +1,43 @@
 
+
+#EXTINF:-1 group-title="Cctv",CCTV 1
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="Cctv",CCTV 2
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="Cctv",CCTV 3
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="Cctv",CCTV 4
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="Cctv",CCTV 5 plus
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 6
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 7
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 8
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 9
+http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8 
+#EXTINF:-1 group-title="China",CCTV 10
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 11
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 12
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 13
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 14
+http://cctvalih5ca.v.myalicdn.com/live/cctv14_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 15
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 16
+http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8 
+#EXTINF:-1 group-title="Cctv",CCTV 17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8 
+
+
 //VOD INDONESIA
  
 #EXTINF:-1 logo="https://i.ibb.co/m4sDN7Z/Revenge-Of-The-Pontianak-2019.jpg" group-title="VOD Indonesia", Revenge Of The Pontianak (2019)
