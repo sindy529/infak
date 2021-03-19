@@ -20,7 +20,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8 
 #EXTINF:-1 group-title="Cctv",CCTV 9
 http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8 
-#EXTINF:-1 group-title="China",CCTV 10
+#EXTINF:-1 group-title="Cctv",CCTV 10
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8 
 #EXTINF:-1 group-title="Cctv",CCTV 11
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8 
