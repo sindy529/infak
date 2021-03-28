@@ -8,3 +8,76 @@ http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
 
 #EXTINF:-1 group-title="Sports Mix",Super Sport 3
 http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 1
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/23453
+http://clientportal.link/itjtB1wIqPTS25/8nK4Eu04/23453
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 2
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/23452
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 3
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/23451
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 4
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/33973
+
+#EXTINF:- 1 group-title="Sports Mix",Sky Main Event
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14753
+http://clientportal.link/itjtB1wIqPTS25/8nK4Eu04/14753
+
+#EXTINF:-1 group-title="Sports Mix",Sky Primer League
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14742
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 1
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14981
+http://clientportal.link/itjtB1wIqPTS25/8nK4Eu04/14981
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 2
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14983
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 3
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14985
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 4
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14987
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 5
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14989
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 6
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14991
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 7
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/1493
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports",BeIN Sport 8
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14995
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 9
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14997
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 10
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/14999
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 11
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/15000
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 12
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/15001
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 1
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/3586
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 2
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/3588
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 3
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/1965
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Mix",Sony TEN 1
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/10168
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Mix",Sony TEN 2
+http://clientportal.link/bN7sAotyi489/7SwXiT2760/10170
+
