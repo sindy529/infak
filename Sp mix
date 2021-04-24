@@ -1,7 +1,77 @@
 
 
-#EXTINF:-1 group-title="Sports Mix",Super Sport 1
-http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SQgZTMv9/True-Premier.png" group-title="Sports Mix",True Premier HD 
+http://clientportal.link/alenbuco/k6PycG7897/16957
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 1
+http://clientportal.link/alenbuco/k6PycG7897/23453
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 2
+http://clientportal.link/alenbuco/k6PycG7897/23452
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 3
+http://clientportal.link/alenbuco/k6PycG7897/23451
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports Mix",ASTRO SUPERSPORTS 4
+http://clientportal.link/alenbuco/k6PycG7897/33973
+
+
+#EXTINF:- 1 group-title="Sports Mix",Sky Main Event
+http://clientportal.link/alenbuco/k6PycG7897/14753
+
+#EXTINF:-1 group-title="Sports Mix",Sky Primer League
+http://clientportal.link/alenbuco/k6PycG7897/14742
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 1
+http://clientportal.link/alenbuco/k6PycG7897/14981
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 2
+http://clientportal.link/alenbuco/k6PycG7897/14983
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 3
+http://clientportal.link/alenbuco/k6PycG7897/14985
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 4
+http://clientportal.link/alenbuco/k6PycG7897/14987
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 5
+http://clientportal.link/alenbuco/k6PycG7897/14989
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sport 6
+http://clientportal.link/alenbuco/k6PycG7897/14991
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sports AU 1
+http://cloudcdn.tk/alenbuco/k6PycG7897/33648
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sports AU 2
+http://cloudcdn.tk/alenbuco/k6PycG7897/33649
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Sports Mix",BeIN Sports AU 3
+http://cloudcdn.tk/alenbuco/k6PycG7897/33650
+
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 1
+http://cloudcdn.tk/alenbuco/k6PycG7897/1991
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 2
+http://cloudcdn.tk/alenbuco/k6PycG7897/1992
+
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sports Mix", BT Sport 3
+http://cloudcdn.tk/alenbuco/k6PycG7897/14903
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Mix",Sony TEN 1
+http://clientportal.link/alenbuco/k6PycG7897/10168
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Mix",Sony TEN 2
+http://clientportal.link/alenbuco/k6PycG7897/10170
+
+
+#EXTINF:-1 group-title="Sports Mix",NBC SN
+http://cloudcdn.tk/alenbuco/k6PycG7897/9008
+
+
 
 
 
